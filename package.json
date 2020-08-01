@@ -1,0 +1,22 @@
+{
+  "name": "learning",
+  "version": "1.0.0",
+  "description": "this is my learning folder/app",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/digvijayredekar17/learning.git"
+  },
+  "author": "Digvijay Redekar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/digvijayredekar17/learning/issues"
+  },
+  "homepage": "https://github.com/digvijayredekar17/learning#readme",
+  "devDependencies": {
+    "lite-server": "^2.5.4"
+  }
+}
